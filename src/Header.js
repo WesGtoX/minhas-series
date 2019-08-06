@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import logo from './img/logo.png';
 import {
     Navbar,
     NavbarBrand,
@@ -17,7 +18,9 @@ import {
     }
     return (
       <Navbar color='light' light expand='md'>
-        <NavbarBrand tag={Link} to='/'>Minhas Séries</NavbarBrand>
+        <NavbarBrand tag={Link} to='/'>
+            <img alt='Minhas Séries' src={logo} height={50} />
+        </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={open} navbar>
           <Nav className='ml-auto' navbar>

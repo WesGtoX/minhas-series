@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/WesGtoX/minhas-series">
-     <img src="src/logo.png" alt="Minhas Series" title="Minhas Series" width="500">
+     <img src="src/img/logo.png" alt="Minhas Series" title="Minhas Series" width="350">
    </a>
 </p>
 
