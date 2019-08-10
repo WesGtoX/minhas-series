@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "alias": [
+    "minhas-series.wesleymends.com.br", 
+    "www.minhas-series.wesleymends.com.br"
+  ],
+  "build": {
+    "env": {
+      "NODE_ENV": "production",
+      "BASE_DIR": "/usr/src/app/"
+    }
+  }
+}
+
